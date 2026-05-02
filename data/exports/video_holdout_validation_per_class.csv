@@ -1,14 +1,14 @@
 heldout_video,label,support,correct,recall
-Alicia - Double & Front Double.mp4,double_kick,18,0,0.0
-Alicia - Double & Front Double.mp4,frontdouble_kick,14,0,0.0
-Andus - Axe Kick_compressed.mp4,axe_kick,36,6,0.166667
-Andus - Back Kick_compressed.mp4,back_kick,36,0,0.0
-Andus - Hop Step_compressed.mp4,hopstep_kick,86,0,0.0
-Andus - Spinning Hook Kick_compressed.mp4,spinninghook_kick,44,22,0.5
-Andus - Tornado Kick_compressed.mp4,spinninghook_kick,1,0,0.0
-Andus - Tornado Kick_compressed.mp4,tornado_kick,69,0,0.0
-Brayden - Cross.mp4,cross,14,0,0.0
-Brayden - Jab.mp4,jab,10,0,0.0
+Athlete_B - Double & Front Double.mp4,double_kick,18,0,0.0
+Athlete_B - Double & Front Double.mp4,frontdouble_kick,14,0,0.0
+Athlete_A - Axe Kick_compressed.mp4,axe_kick,36,6,0.166667
+Athlete_A - Back Kick_compressed.mp4,back_kick,36,0,0.0
+Athlete_A - Hop Step_compressed.mp4,hopstep_kick,86,0,0.0
+Athlete_A - Spinning Hook Kick_compressed.mp4,spinninghook_kick,44,22,0.5
+Athlete_A - Tornado Kick_compressed.mp4,spinninghook_kick,1,0,0.0
+Athlete_A - Tornado Kick_compressed.mp4,tornado_kick,69,0,0.0
+Athlete_C - Cross.mp4,cross,14,0,0.0
+Athlete_C - Jab.mp4,jab,10,0,0.0
 Group - Axe Kick_compressed.mp4,axe_kick,36,25,0.694444
 Group - Back Kick_compressed.mp4,back_kick,34,0,0.0
 Group - Cut Kick_compressed.mp4,cut_kick,45,0,0.0
@@ -24,7 +24,7 @@ Kicking Session with Spin and Backkick.mp4,spinninghook_kick,5,3,0.6
 Kicking Session.mp4,axe_kick,3,0,0.0
 Kicking Session.mp4,hopstep_kick,2,0,0.0
 Kicking Session.mp4,roundhouse_kick,11,0,0.0
-Nathan - Cut.mp4,cut_kick,24,0,0.0
+Athlete_D - Cut.mp4,cut_kick,24,0,0.0
 Practice (RoundHouse).mp4,back_kick,2,0,0.0
 Practice (RoundHouse).mp4,hopstep_kick,1,0,0.0
 Practice (RoundHouse).mp4,roundhouse_kick,4,0,0.0

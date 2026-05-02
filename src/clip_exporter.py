@@ -6,9 +6,7 @@ import cv2
 import pandas as pd
 
 
-FALLBACK_FFMPEG_PATH = Path(
-    r"C:\Users\Andus\AppData\Local\Microsoft\WinGet\Links\ffmpeg.exe"
-)
+FALLBACK_FFMPEG_PATH = Path("ffmpeg")  # rely on system PATH by default
 
 
 def _sanitize_filename_component(value: str) -> str:

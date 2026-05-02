@@ -1,12 +1,12 @@
 heldout_video,train_rows,test_rows,train_classes,test_classes,feature_count,accuracy,macro_f1,weighted_f1
-Alicia - Double & Front Double.mp4,651,32,12,2,80,0.0,0.0,0.0
-Andus - Axe Kick_compressed.mp4,647,36,12,1,80,0.166667,0.02381,0.285714
-Andus - Back Kick_compressed.mp4,647,36,12,1,80,0.0,0.0,0.0
-Andus - Hop Step_compressed.mp4,597,86,12,1,80,0.0,0.0,0.0
-Andus - Spinning Hook Kick_compressed.mp4,639,44,12,1,80,0.5,0.055556,0.666667
-Andus - Tornado Kick_compressed.mp4,613,70,12,2,80,0.0,0.0,0.0
-Brayden - Cross.mp4,669,14,11,1,80,0.0,0.0,0.0
-Brayden - Jab.mp4,673,10,11,1,80,0.0,0.0,0.0
+Athlete_B - Double & Front Double.mp4,651,32,12,2,80,0.0,0.0,0.0
+Athlete_A - Axe Kick_compressed.mp4,647,36,12,1,80,0.166667,0.02381,0.285714
+Athlete_A - Back Kick_compressed.mp4,647,36,12,1,80,0.0,0.0,0.0
+Athlete_A - Hop Step_compressed.mp4,597,86,12,1,80,0.0,0.0,0.0
+Athlete_A - Spinning Hook Kick_compressed.mp4,639,44,12,1,80,0.5,0.055556,0.666667
+Athlete_A - Tornado Kick_compressed.mp4,613,70,12,2,80,0.0,0.0,0.0
+Athlete_C - Cross.mp4,669,14,11,1,80,0.0,0.0,0.0
+Athlete_C - Jab.mp4,673,10,11,1,80,0.0,0.0,0.0
 Group - Axe Kick_compressed.mp4,647,36,12,1,80,0.694444,0.068306,0.819672
 Group - Back Kick_compressed.mp4,649,34,12,1,80,0.0,0.0,0.0
 Group - Cut Kick_compressed.mp4,638,45,12,1,80,0.0,0.0,0.0
@@ -15,6 +15,6 @@ Group - Hop Axe.mp4,604,79,12,2,80,0.0,0.0,0.0
 Group - Spinning Hook_compressed.mp4,656,27,12,1,80,0.185185,0.026042,0.3125
 Kicking Session with Spin and Backkick.mp4,651,32,12,3,80,0.09375,0.045455,0.085227
 Kicking Session.mp4,667,16,12,3,80,0.0,0.0,0.0
-Nathan - Cut.mp4,659,24,12,1,80,0.0,0.0,0.0
+Athlete_D - Cut.mp4,659,24,12,1,80,0.0,0.0,0.0
 Practice (RoundHouse).mp4,676,7,12,3,80,0.0,0.0,0.0
 Practice (Tornado).mp4,674,9,12,4,80,0.0,0.0,0.0
