@@ -1,0 +1,104 @@
+heldout_video,actual_label,predicted_label,count
+Alicia - Double & Front Double.mp4,double_kick,cut_kick,18
+Alicia - Double & Front Double.mp4,frontdouble_kick,cut_kick,14
+Andus - Axe Kick_compressed.mp4,axe_kick,axe_kick,6
+Andus - Axe Kick_compressed.mp4,axe_kick,back_kick,3
+Andus - Axe Kick_compressed.mp4,axe_kick,cut_kick,8
+Andus - Axe Kick_compressed.mp4,axe_kick,double_kick,5
+Andus - Axe Kick_compressed.mp4,axe_kick,hopaxe_kick,14
+Andus - Back Kick_compressed.mp4,back_kick,double_kick,5
+Andus - Back Kick_compressed.mp4,back_kick,frontdouble_kick,12
+Andus - Back Kick_compressed.mp4,back_kick,hopaxe_kick,1
+Andus - Back Kick_compressed.mp4,back_kick,hopstep_kick,18
+Andus - Hop Step_compressed.mp4,hopstep_kick,back_kick,58
+Andus - Hop Step_compressed.mp4,hopstep_kick,cross,1
+Andus - Hop Step_compressed.mp4,hopstep_kick,hopaxe_kick,11
+Andus - Hop Step_compressed.mp4,hopstep_kick,jab,4
+Andus - Hop Step_compressed.mp4,hopstep_kick,roundhouse_kick,9
+Andus - Hop Step_compressed.mp4,hopstep_kick,tornado_kick,3
+Andus - Spinning Hook Kick_compressed.mp4,spinninghook_kick,back_kick,3
+Andus - Spinning Hook Kick_compressed.mp4,spinninghook_kick,hopaxe_kick,12
+Andus - Spinning Hook Kick_compressed.mp4,spinninghook_kick,hopstep_kick,2
+Andus - Spinning Hook Kick_compressed.mp4,spinninghook_kick,roundhouse_kick,3
+Andus - Spinning Hook Kick_compressed.mp4,spinninghook_kick,spinninghook_kick,22
+Andus - Spinning Hook Kick_compressed.mp4,spinninghook_kick,tornado_kick,2
+Andus - Tornado Kick_compressed.mp4,spinninghook_kick,hopaxe_kick,1
+Andus - Tornado Kick_compressed.mp4,tornado_kick,cut_kick,1
+Andus - Tornado Kick_compressed.mp4,tornado_kick,double_kick,1
+Andus - Tornado Kick_compressed.mp4,tornado_kick,hopaxe_kick,46
+Andus - Tornado Kick_compressed.mp4,tornado_kick,hopstep_kick,5
+Andus - Tornado Kick_compressed.mp4,tornado_kick,roundhouse_kick,12
+Andus - Tornado Kick_compressed.mp4,tornado_kick,spinninghook_kick,4
+Brayden - Cross.mp4,cross,back_kick,2
+Brayden - Cross.mp4,cross,cut_kick,8
+Brayden - Cross.mp4,cross,double_kick,1
+Brayden - Cross.mp4,cross,hopstep_kick,3
+Brayden - Jab.mp4,jab,back_kick,1
+Brayden - Jab.mp4,jab,hopaxe_kick,4
+Brayden - Jab.mp4,jab,hopstep_kick,4
+Brayden - Jab.mp4,jab,tornado_kick,1
+Group - Axe Kick_compressed.mp4,axe_kick,axe_kick,25
+Group - Axe Kick_compressed.mp4,axe_kick,double_kick,10
+Group - Axe Kick_compressed.mp4,axe_kick,hopaxe_kick,1
+Group - Back Kick_compressed.mp4,back_kick,axe_kick,2
+Group - Back Kick_compressed.mp4,back_kick,cut_kick,9
+Group - Back Kick_compressed.mp4,back_kick,hopaxe_kick,5
+Group - Back Kick_compressed.mp4,back_kick,spinninghook_kick,18
+Group - Cut Kick_compressed.mp4,cut_kick,back_kick,21
+Group - Cut Kick_compressed.mp4,cut_kick,hopaxe_kick,13
+Group - Cut Kick_compressed.mp4,cut_kick,spinninghook_kick,10
+Group - Cut Kick_compressed.mp4,cut_kick,tornado_kick,1
+Group - Double_compressed.mp4,double_kick,axe_kick,2
+Group - Double_compressed.mp4,double_kick,back_kick,6
+Group - Double_compressed.mp4,double_kick,hopaxe_kick,7
+Group - Double_compressed.mp4,double_kick,hopstep_kick,1
+Group - Double_compressed.mp4,double_kick,tornado_kick,6
+Group - Double_compressed.mp4,frontdouble_kick,back_kick,18
+Group - Double_compressed.mp4,frontdouble_kick,hopaxe_kick,2
+Group - Double_compressed.mp4,frontdouble_kick,hopstep_kick,1
+Group - Double_compressed.mp4,frontdouble_kick,spinninghook_kick,1
+Group - Double_compressed.mp4,roundhouse_kick,cut_kick,1
+Group - Double_compressed.mp4,roundhouse_kick,hopaxe_kick,1
+Group - Hop Axe.mp4,axe_kick,roundhouse_kick,1
+Group - Hop Axe.mp4,axe_kick,tornado_kick,2
+Group - Hop Axe.mp4,hopaxe_kick,axe_kick,1
+Group - Hop Axe.mp4,hopaxe_kick,back_kick,3
+Group - Hop Axe.mp4,hopaxe_kick,cut_kick,12
+Group - Hop Axe.mp4,hopaxe_kick,double_kick,1
+Group - Hop Axe.mp4,hopaxe_kick,hopstep_kick,16
+Group - Hop Axe.mp4,hopaxe_kick,jab,1
+Group - Hop Axe.mp4,hopaxe_kick,roundhouse_kick,1
+Group - Hop Axe.mp4,hopaxe_kick,spinninghook_kick,6
+Group - Hop Axe.mp4,hopaxe_kick,tornado_kick,35
+Group - Spinning Hook_compressed.mp4,spinninghook_kick,axe_kick,1
+Group - Spinning Hook_compressed.mp4,spinninghook_kick,back_kick,12
+Group - Spinning Hook_compressed.mp4,spinninghook_kick,cut_kick,8
+Group - Spinning Hook_compressed.mp4,spinninghook_kick,spinninghook_kick,5
+Group - Spinning Hook_compressed.mp4,spinninghook_kick,tornado_kick,1
+Kicking Session with Spin and Backkick.mp4,back_kick,roundhouse_kick,2
+Kicking Session with Spin and Backkick.mp4,back_kick,spinninghook_kick,1
+Kicking Session with Spin and Backkick.mp4,back_kick,tornado_kick,1
+Kicking Session with Spin and Backkick.mp4,roundhouse_kick,spinninghook_kick,2
+Kicking Session with Spin and Backkick.mp4,roundhouse_kick,tornado_kick,21
+Kicking Session with Spin and Backkick.mp4,spinninghook_kick,hopaxe_kick,2
+Kicking Session with Spin and Backkick.mp4,spinninghook_kick,spinninghook_kick,3
+Kicking Session.mp4,axe_kick,spinninghook_kick,3
+Kicking Session.mp4,hopstep_kick,back_kick,2
+Kicking Session.mp4,roundhouse_kick,back_kick,8
+Kicking Session.mp4,roundhouse_kick,spinninghook_kick,3
+Nathan - Cut.mp4,cut_kick,back_kick,5
+Nathan - Cut.mp4,cut_kick,cross,6
+Nathan - Cut.mp4,cut_kick,double_kick,8
+Nathan - Cut.mp4,cut_kick,frontdouble_kick,1
+Nathan - Cut.mp4,cut_kick,hopstep_kick,4
+Practice (RoundHouse).mp4,back_kick,cross,1
+Practice (RoundHouse).mp4,back_kick,cut_kick,1
+Practice (RoundHouse).mp4,hopstep_kick,back_kick,1
+Practice (RoundHouse).mp4,roundhouse_kick,axe_kick,1
+Practice (RoundHouse).mp4,roundhouse_kick,hopaxe_kick,2
+Practice (RoundHouse).mp4,roundhouse_kick,hopstep_kick,1
+Practice (Tornado).mp4,axe_kick,cut_kick,3
+Practice (Tornado).mp4,hopaxe_kick,back_kick,2
+Practice (Tornado).mp4,hopstep_kick,back_kick,1
+Practice (Tornado).mp4,hopstep_kick,cut_kick,1
+Practice (Tornado).mp4,tornado_kick,cut_kick,2

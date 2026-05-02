@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude AI project files
+.claude/
+
+# Personal video uploads and large processed files (EXCLUDE FROM PUBLIC REPO)
+data/uploads/
+data/processed/

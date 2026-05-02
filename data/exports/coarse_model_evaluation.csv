@@ -1,0 +1,10 @@
+run_timestamp,model_name,target_column,evaluation_split,stratified_split_used,dataset_rows,training_rows,test_rows,feature_count,label,precision,recall,f1-score,support
+2026-04-30T15:33:35,coarse_strike_type_random_forest,coarse_strike_type,holdout,True,604,453,151,137,axe_kicks,0.9473684210526315,0.9,0.9230769230769231,20.0
+2026-04-30T15:33:35,coarse_strike_type_random_forest,coarse_strike_type,holdout,True,604,453,151,137,double_kicks,1.0,0.8421052631578947,0.9142857142857143,19.0
+2026-04-30T15:33:35,coarse_strike_type_random_forest,coarse_strike_type,holdout,True,604,453,151,137,linear_kicks,0.8611111111111112,0.775,0.8157894736842105,40.0
+2026-04-30T15:33:35,coarse_strike_type_random_forest,coarse_strike_type,holdout,True,604,453,151,137,punches,1.0,0.8333333333333334,0.9090909090909091,6.0
+2026-04-30T15:33:35,coarse_strike_type_random_forest,coarse_strike_type,holdout,True,604,453,151,137,round_kicks,0.5555555555555556,0.5,0.5263157894736842,10.0
+2026-04-30T15:33:35,coarse_strike_type_random_forest,coarse_strike_type,holdout,True,604,453,151,137,spinning_kicks,0.7424242424242424,0.875,0.8032786885245902,56.0
+2026-04-30T15:33:35,coarse_strike_type_random_forest,coarse_strike_type,holdout,True,604,453,151,137,accuracy,0.8211920529801324,0.8211920529801324,0.8211920529801324,0.8211920529801324
+2026-04-30T15:33:35,coarse_strike_type_random_forest,coarse_strike_type,holdout,True,604,453,151,137,macro avg,0.8510765550239233,0.7875730994152047,0.8153062496893386,151.0
+2026-04-30T15:33:35,coarse_strike_type_random_forest,coarse_strike_type,holdout,True,604,453,151,137,weighted avg,0.8312789801113258,0.8211920529801324,0.8222904363377138,151.0
