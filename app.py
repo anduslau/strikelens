@@ -49,6 +49,9 @@ from src.video_loader import (
 from src.visualization import create_pose_overlay_video_with_diagnostics
 
 
+APP_VERSION = "0.1.0"
+
+
 CORRECTED_CATEGORIES = [
     "punch",
     "kick",
@@ -1907,6 +1910,9 @@ def main() -> None:
     selected_section = render_sidebar_navigation()
     selected_video_path, analysis_mode = render_video_selector()
     render_project_state_panel()
+
+    st.sidebar.divider()
+    st.sidebar.caption(f"StrikeLens v{APP_VERSION}")
 
     if selected_section == "Dashboard":
         render_dashboard_section()
